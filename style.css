@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'gilroy';
+  src: url(fonts/gilroy-light.woff);
+  src: url(fonts/gilroy-light.woff) format('woff');
+}
+
+body,
+html {
+  font-family: 'gilroy';
+  line-height: 1.5;
+  color:white;
+  background-color: #653819;
+
+}
+
+/* Links to white */
+a {
+  color:#ffffff;
+}
+
+/* Mobile */
+@media screen and (max-width: 650px) {
+
+  
+} 
+
